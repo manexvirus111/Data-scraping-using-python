@@ -6,7 +6,7 @@ This project is a Python-based data scraping tool that extracts information from
 
 1. Clone the repository to your local machine:
 
-git clone https://github.com/your-username/data-scraping-project-using-python.git
+git clone https://github.com/manexvirus111/data-scraping-project-using-python.git
 
 
 2. Navigate to the project directory:
